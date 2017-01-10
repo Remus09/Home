@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="package1.loan_calculator">
+  <grid id="27dc6" binding="rootPaenl" layout-manager="FormLayout">
+    <rowspec value="center:d:grow"/>
+    <colspec value="fill:d:grow"/>
+    <constraints>
+      <xy x="163" y="55" width="414" height="418"/>
+    </constraints>
+    <properties/>
+    <border type="none"/>
+    <children>
+      <component id="15be2" class="javax.swing.JButton" binding="Click_me">
+        <constraints>
+          <grid row="0" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+          <forms/>
+        </constraints>
+        <properties>
+          <text value="Click me"/>
+        </properties>
+      </component>
+    </children>
+  </grid>
+</form>
